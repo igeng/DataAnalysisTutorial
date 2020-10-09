@@ -1,4 +1,4 @@
-******In this repo, I will complete follows:****\
+**In this repo, I will complete follows:**  
 1.implement some usual ml algorithm:  
 KNN  
 SVM  
